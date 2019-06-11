@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WSDemo</string>
+    <string name="editText_hint">这里输入需要发送的文字</string>
+    <string name="ws_send">发送</string>
+</resources>
